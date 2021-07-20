@@ -1,0 +1,3 @@
+[submodule "godot_high_scores_tutorial"]
+	path = godot_high_scores_tutorial
+	url = https://github.com/electronstudio/godot_high_scores_tutorial
