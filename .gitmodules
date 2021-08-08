@@ -1,3 +1,15 @@
 [submodule "godot_high_scores_tutorial"]
 	path = godot_high_scores_tutorial
 	url = https://github.com/electronstudio/godot_high_scores_tutorial
+[submodule "godot_space"]
+	path = godot_space
+	url = https://github.com/electronstudio/godot_space
+[submodule "godot_platformer"]
+	path = godot_platformer
+	url = https://github.com/electronstudio/godot_platformer
+[submodule "godot_racing"]
+	path = godot_racing
+	url = https://github.com/electronstudio/godot_racing
+[submodule "godot_vr_wave_shooter"]
+	path = godot_vr_wave_shooter
+	url = https://github.com/electronstudio/godot_vr_wave_shooter/

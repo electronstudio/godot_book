@@ -10,4 +10,8 @@ Godot Book
    :maxdepth: 2
    :caption: Contents:
 
+   godot_platformer/docs/tutorial
+   godot_space/docs/tutorial.md
+   godot_racing/docs/tutorial.md
    godot_high_scores_tutorial/docs/tutorial.rst
+   godot_vr_wave_shooter/docs/tutorial.md
